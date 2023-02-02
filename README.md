@@ -14,7 +14,7 @@
 <a target="_blank"><img align="right" height="50" width="500" alt="𝙶𝙸𝙵" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></a>
 <br>
 
-
+<body/>
 <br/>
  <h2 align="center">Sosyal Medya Hesaplarım </h2>
  
@@ -26,6 +26,7 @@
 ![My Skills](https://skillicons.dev/icons?i=java,py)
 
 <br>
+<body>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/102360167/216442278-c5e9e92a-147d-4744-992c-d2c9b203955b.gif" alt="Sublime's custom image"/>
 </p>
