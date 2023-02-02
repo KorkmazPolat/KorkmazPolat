@@ -10,9 +10,10 @@
 - :computer:Yetgen Python Core Eğitimi içerisinde aktif olarak bulunmaktayım.
 - :computer: Python ve Java dillerinde eğitim alıyorum.
 - 📫 Bana ulaşmak isterseniz **korkmazp@mef.edu.tr** adresini kullanabilirsiniz. 
+
+<a target="_blank"><img align="right" height="50" width="500" alt="𝙶𝙸𝙵" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></a>
 <br>
 
-<a target="_blank"><img align="left" height="50" width="500" alt="𝙶𝙸𝙵" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></a>
 
 <br/>
  <h2 align="center">Sosyal Medya Hesaplarım </h2>
