@@ -14,5 +14,21 @@
 
 <a target="_blank"><img align="left" height="50" width="500" alt="𝙶𝙸𝙵" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></a>
 
+<br/>
+ <h2 align="center">Sosyal Medya Hesaplarım </h2>
+ 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polatkorkmaz/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/polatkkorkmaz/)
 
-![Cmd](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<h2 align="center">Dil & Framework</h2>
+
+![My Skills](https://skillicons.dev/icons?i=java,py)
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/102360167/216442278-c5e9e92a-147d-4744-992c-d2c9b203955b.gif" alt="Sublime's custom image"/>
+</p>
+
+
+
+
