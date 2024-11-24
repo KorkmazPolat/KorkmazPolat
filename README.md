@@ -31,11 +31,7 @@ Benim favori teknolojilerim ve geliştirdiğim projelerde kullandığım araçla
 
 ### **Programlama Dilleri**
 
-![My Skills](https://skillicons.dev/icons?i=java,py,js,c,cpp)
-
-### **Web Geliştirme**
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,flask)
+![My Skills](https://skillicons.dev/icons?i=java,py)
 
 ### **Veri Bilimi & Makine Öğrenmesi**
 
