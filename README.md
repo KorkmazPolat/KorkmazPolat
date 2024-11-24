@@ -26,7 +26,6 @@
 <br>
 <body>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/102360167/216442278-c5e9e92a-147d-4744-992c-d2c9b203955b.gif" alt="Sublime's custom image"/>
 </p>
 
 
