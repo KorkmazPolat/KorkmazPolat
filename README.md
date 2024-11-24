@@ -64,37 +64,6 @@ Here are some exciting ongoing projects that I'm working on:
 
 ---
 
-## 🎯 İlgi Alanlarım & Hobilerim
-
-- 📖 **Kitap Okumak**: Teknoloji ve yapay zeka konularındaki kitaplar en sevdiğim okuma alanlarım.
-- 🎮 **Oyun Oynamak**: Özellikle strateji ve RPG türlerini seviyorum.
-- 🌍 **Gezmek**: Farklı kültürleri keşfetmek ve yeni yerler görmek her zaman heyecan verici.
-- 🎶 **Müzik Dinlemek**: Zengin bir müzik zevkim var ve farklı türlerde müzikler dinlemekten keyif alıyorum.
-
----
-
-## 🌍 Yeteneklerimi Geliştirdiğim Projeler
-
-- **AI Form Builder**: Bir AI destekli form oluşturma platformu geliştirdim.
-- **Book Database Management System**: Online kitap satış ve yönetimi için veritabanı çözümleri sundum.
-- **Social Media Content Moderation Tool**: Yapay zeka tabanlı bir içerik moderasyon aracı üzerinde çalışıyorum.
-
----
-
-## 🧑‍💻 İşbirliği Yapmak İçin Neden Beni Seçmelisiniz?
-
-- **Yaratıcı Çözümler**: Zorlu problemlere yenilikçi çözümler geliştirme konusunda tutkuluyum.
-- **Takım Çalışması**: Takım içinde çalışmayı severim ve kolektif başarıyı önemserim.
-- **Sürekli Öğrenme**: Yeni teknolojiler öğrenmeye ve projelere katkı sağlamaya her zaman açığım.
-
----
-
-## 📈 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolatKorkmaz&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
----
-
 ## 📊 En Çok Kullanılan Diller
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolatKorkmaz&layout=compact&count_private=true)
@@ -108,8 +77,6 @@ Here are some exciting ongoing projects that I'm working on:
 - **[Google AI - TensorFlow Developer](https://www.tensorflow.org/)** (2024)
 
 ---
-
-## 🎉 Eğlenceli GIF'ler
 
 ![Coding GIF](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
 
