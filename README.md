@@ -41,28 +41,7 @@ Benim favori teknolojilerim ve geliştirdiğim projelerde kullandığım araçla
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,oracle,mongodb)
 
----
-
-## 🚀 Ongoing Projects
-
-Here are some exciting ongoing projects that I'm working on:
-
-### 🛒 **Online Bookstore Database**
-- **Description**: A database design for an online bookstore project. It involves organizing books, authors, users, and orders using Oracle.
-- **Tools**: Oracle, SQL, Toad Data Modeler
-- **Status**: In progress (DBMS Final Project)
-
-### 📊 **Machine Learning Algorithms Comparison**
-- **Description**: Testing and comparing the performance of various ML algorithms on different array sizes, including traditional and modern methods (like BERT).
-- **Tools**: Python, Scikit-learn, TensorFlow
-- **Status**: Ongoing
-
-### 🌐 **AI-Based Social Media Content Moderation**
-- **Description**: Research and development of an AI-based system to moderate social media content.
-- **Tools**: Python, NLP, OpenAI API
-- **Status**: Research Phase
-
----
+--- 
 
 ## 📊 En Çok Kullanılan Diller
 
